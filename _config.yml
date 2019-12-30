@@ -1,10 +1,10 @@
 # Site settings
-title: Pockies
+title: Delier
 SEOTitle: Delier | 博客
 header-img: img/post-bg-desk.jpg
 email: deliers@qq.com
 description: "Delier's blog"
-keyword: "BY, BY Blog,Delier,note"
+keyword: "BY, BY Blog, Delier, note"
 url: "https://Delier.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
