@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: deliers@qq.com
 description: "修改"
 keyword: "BY, BY Blog,Delier,note"
-url: "http://Delier.github.io"          # your host, for absolute URL
+url: "https://Delier.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
