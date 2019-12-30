@@ -3,7 +3,7 @@ title: Delier
 SEOTitle: Delier | Blog
 header-img: img/post-bg-desk.jpg
 email: deliers@qq.com
-description: "修改"
+description: "Delier's blog"
 keyword: "BY, BY Blog,Delier,note"
 url: "https://Delier.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "修改!"
+sidebar-about-description: "不要哀求，学会争取，若是如此，总有所获"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
