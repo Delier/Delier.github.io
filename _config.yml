@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "more",
-        href: "auto"
+        title: "",
+        href: ""
     },{
-        title: "...",
-        href: "auto"
+        title: "",
+        href: ""
     }
 ]
